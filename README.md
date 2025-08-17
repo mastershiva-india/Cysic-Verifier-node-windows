@@ -60,6 +60,8 @@ Add Arguments: ( just copy paste )
 Go to Condition → under network click on Start only if the following network connection is available & in drop down menu choose 'any connection'.
 (it it totally optional)
 
+UNCHECK 'Stop the task if it runs longer than' in Settings.
+
 Thats all!
 
 Save → Enter password → Done ✅
